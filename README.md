@@ -14,4 +14,4 @@
 
 <a href="https://www.linkedin.com/in/%C3%B6mer-furkan-%C3%A7elik-012b39255/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfurkancelik" height="27" width="36" /></a>
 <strong>Ömer Furkan Çelik</strong>
-
+<strong>📫 How to reach me omerfcelikk.32@gmail.com</strong>
